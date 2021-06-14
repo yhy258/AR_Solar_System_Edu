@@ -1,5 +1,8 @@
 # AR_Solar_System_Edu
 
+**Test Link**  
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=PGP-dzM-jd8)
+
 ## Abstract
 
 교육 목적 카드를 통한 태양계 행성 인식 AR  
